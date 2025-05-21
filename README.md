@@ -1,2 +1,2 @@
-# day_24
-funtions
+# day_23
+string
